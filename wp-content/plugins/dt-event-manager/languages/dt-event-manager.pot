@@ -1,0 +1,2722 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Event Addon\n"
+"POT-Creation-Date: 2020-07-04 17:29+0530\n"
+"PO-Revision-Date: 2017-01-06 19:39+0530\n"
+"Last-Translator: Ramamoorthi <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e;esc_attr__;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../custom-post-types/dt-event-as-product.php:73
+msgid "Date"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:74
+#: ../custom-post-types/dt-event-post-type.php:34
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:75
+#: ../custom-post-types/dt-event-organizer-post-type.php:19
+#: ../templates/content/layout-3.php:37
+msgid "Organizer"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:76
+#: ../visual-composer/shortcodes/weekly-tab.php:43
+msgid "Location"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:272
+#, php-format
+msgid "%1$s (#%2$s) stock reduced from %3$s to %4$s."
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:283
+msgid "Bookings"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:306
+msgid "Event Date & Time"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:307
+msgid "Order"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:308
+msgid "Client"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:309
+msgid "Tickets"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:310
+msgid "Order Status"
+msgstr ""
+
+#: ../custom-post-types/dt-event-as-product.php:367
+msgid "There are no bookings for this event."
+msgstr ""
+
+#: ../custom-post-types/dt-event-data-store-cpt.php:14
+msgid "Invalid product."
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:18
+#: ../custom-post-types/dt-event-organizer-post-type.php:20
+#: ../custom-post-types/dt-event-organizer-post-type.php:34
+#: ../custom-post-types/dt-event-organizer-post-type.php:56
+#: ../custom-post-types/dt-event-organizer-post-type.php:57
+#: ../custom-post-types/dt-event-post-type.php:764
+#: ../templates/content/layout-1.php:118 ../templates/content/layout-2.php:113
+#: ../templates/content/layout-4.php:102 ../templates/content/layout-5.php:100
+msgid "Organizers"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:21
+msgid "Add Organizer"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:22
+msgid "Add New Organizer"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:23
+#: ../custom-post-types/dt-event-organizer-post-type.php:24
+msgid "Edit Organizer"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:25
+msgid "New Organizer"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:26
+#: ../custom-post-types/dt-event-organizer-post-type.php:27
+msgid "View Organizer"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:28
+msgid "Search Organizers"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:29
+msgid "No Organizers found"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:30
+msgid "No Organizers found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:87
+msgid "Organizer Options"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:96
+#: ../custom-post-types/dt-event-post-type.php:184
+#: ../custom-post-types/dt-event-venue-post-type.php:338
+msgid "General"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:103
+#: ../custom-post-types/dt-event-post-type.php:191
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:110
+#: ../custom-post-types/dt-event-post-type.php:198
+msgid "Position"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:112
+#: ../custom-post-types/dt-event-post-type.php:200
+msgid "Behind the Header"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:113
+msgid "Below the Header"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:122
+#: ../custom-post-types/dt-event-post-type.php:210
+msgid "Background"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:123
+#: ../custom-post-types/dt-event-post-type.php:211
+msgid "Choose background options for breadcrumb title section."
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:130
+#: ../custom-post-types/dt-event-post-type.php:218
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:143
+#: ../custom-post-types/dt-event-post-type.php:231
+#: ../custom-post-types/dt-event-post-type.php:670
+msgid "Show Standard Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:150
+#: ../custom-post-types/dt-event-post-type.php:238
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:155
+#: ../custom-post-types/dt-event-organizer-post-type.php:176
+#: ../custom-post-types/dt-event-post-type.php:243
+#: ../custom-post-types/dt-event-post-type.php:264
+msgid "Select Widget Areas"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:164
+#: ../custom-post-types/dt-event-post-type.php:252
+#: ../custom-post-types/dt-event-post-type.php:677
+msgid "Show Standard Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:171
+#: ../custom-post-types/dt-event-post-type.php:259
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:187
+msgid "Organizer Info"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:194
+#: ../custom-post-types/dt-event-venue-post-type.php:387
+msgid "Phone Number"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:200
+#: ../custom-post-types/dt-event-venue-post-type.php:393
+msgid "Website URL"
+msgstr ""
+
+#: ../custom-post-types/dt-event-organizer-post-type.php:206
+msgid "Email"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:33
+msgid "Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:44
+msgid "Tags"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:45
+msgid "Tag"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:57
+#: ../custom-post-types/dt-event-post-type.php:59
+#: ../custom-post-types/dt-event-post-type.php:642
+#: ../templates/archive-dt_event.php:30
+#: ../templates/single-dt_event_organizer.php:48
+msgid "Events"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:58
+#: ../custom-post-types/dt-event-post-type.php:308
+msgid "Event"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:60
+msgid "Add Event"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:61
+msgid "Add New Event"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:62
+#: ../custom-post-types/dt-event-post-type.php:63
+msgid "Edit Event"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:64
+msgid "New Event"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:65
+#: ../custom-post-types/dt-event-post-type.php:66
+msgid "View Event"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:67
+msgid "Search Events"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:68
+msgid "No Events found"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:69
+msgid "No Events found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:74
+msgid "This is where you can add new events."
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:103
+#: ../visual-composer/modules/weekly-schedule.php:217
+#: ../visual-composer/modules/weekly-schedule.php:226
+#: ../visual-composer/modules/weekly-schedule.php:235
+#: ../visual-composer/modules/weekly-schedule.php:244
+#: ../visual-composer/modules/weekly-schedule.php:253
+#: ../visual-composer/modules/weekly-schedule.php:262
+#: ../visual-composer/modules/weekly-schedule.php:271
+msgid "Color"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:104
+msgid "Choose your category color"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:119
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:124
+msgid "Symbol Position"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:126
+msgid "Before Cost"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:127
+msgid "After Cost"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:134
+#: ../custom-post-types/dt-event-post-type.php:628
+msgid "Cost"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:136
+msgid "Enter a 0 for events that are free or leave blank to hide the field"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:141
+msgid "Button Label"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:148
+msgid "Button Link"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:157
+msgid "Capacity"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:169
+msgid "Sold Out Label"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:176
+msgid "Event Options"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:201
+msgid "Default"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:273
+#: ../custom-post-types/dt-event-post-type.php:286
+msgid "Detail Layout"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:301
+msgid "Detail Image"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:316
+msgid "Start Date And Time"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:323
+msgid "Repeat"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:326
+#: ../custom-post-types/dt-event-post-type.php:784
+msgid "No Repeat"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:327
+#: ../custom-post-types/dt-event-post-type.php:785
+msgid "Repeat Daily"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:328
+#: ../custom-post-types/dt-event-post-type.php:786
+msgid "Repeat Weekly"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:329
+#: ../custom-post-types/dt-event-post-type.php:787
+msgid "Repeat Every Two Weeks"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:330
+#: ../custom-post-types/dt-event-post-type.php:788
+msgid "Repeat Monthly"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:331
+#: ../custom-post-types/dt-event-post-type.php:789
+msgid "Repeat Yearly"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:339
+msgid "Choose Repeat Day"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:343
+#: ../custom-post-types/dt-event-post-type.php:793
+#: ../visual-composer/modules/weekly-schedule.php:213
+msgid "Monday"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:344
+#: ../custom-post-types/dt-event-post-type.php:794
+#: ../visual-composer/modules/weekly-schedule.php:222
+msgid "Tuesday"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:345
+#: ../custom-post-types/dt-event-post-type.php:795
+#: ../visual-composer/modules/weekly-schedule.php:231
+msgid "Wednesday"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:346
+#: ../custom-post-types/dt-event-post-type.php:796
+#: ../visual-composer/modules/weekly-schedule.php:240
+msgid "Thursday"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:347
+#: ../custom-post-types/dt-event-post-type.php:797
+#: ../visual-composer/modules/weekly-schedule.php:249
+msgid "Friday"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:348
+#: ../custom-post-types/dt-event-post-type.php:798
+#: ../visual-composer/modules/weekly-schedule.php:258
+msgid "Saturday"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:349
+#: ../custom-post-types/dt-event-post-type.php:799
+#: ../visual-composer/modules/weekly-schedule.php:267
+msgid "Sunday"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:358
+msgid "Last Repeat Date"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:367
+msgid "Status"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:370
+msgid "Live"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:371
+msgid "Canceled"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:372
+msgid "Canceled Date"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:385
+msgid "Canceled Date(s)"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:393
+msgid "Cancel Date"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:404
+msgid "Choose Event Venue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:416
+msgid "Select Venue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:423
+msgid "Show Venue in Map"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:431
+msgid "Choose Event Organizers"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:444
+msgid "Select Organizers"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:451
+msgid "Map"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:458
+msgid "Map section works only if you enable Show Venue in Map settings"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:465
+msgid "Map Type"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:467
+msgid "Roadmap"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:468
+msgid "Satellite"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:469
+msgid "Terrain"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:470
+msgid "Hybrid"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:483
+msgid "Map Style"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:489
+msgid "Custom"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:490
+msgid "Style 1"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:491
+msgid "Style 2"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:492
+msgid "Style 3"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:493
+msgid "Style 4"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:494
+msgid "Style 5"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:495
+msgid "Style 6"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:496
+msgid "Style 7"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:497
+msgid "Style 8"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:498
+msgid "Style 9"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:499
+msgid "Style 10"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:500
+msgid "Style 11"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:501
+msgid "Style 12"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:502
+msgid "Style 13"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:503
+msgid "Style 14"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:504
+msgid "Style 15"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:505
+msgid "Style 16"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:506
+msgid "Style 17"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:507
+msgid "Style 18"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:508
+msgid "Style 19"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:509
+msgid "Style 20"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:510
+msgid "Style 21"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:511
+msgid "Style 22"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:512
+msgid "Style 23"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:513
+msgid "Style 24"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:514
+msgid "Style 25"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:515
+msgid "Style 26"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:516
+msgid "Style 27"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:517
+msgid "Style 28"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:518
+msgid "Style 29"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:519
+msgid "Style 30"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:520
+msgid "Style 31"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:521
+msgid "Style 32"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:522
+msgid "Style 33"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:523
+msgid "Style 34"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:524
+msgid "Style 35"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:525
+msgid "Style 36"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:526
+msgid "Style 37"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:527
+msgid "Style 38"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:528
+msgid "Style 39"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:529
+msgid "Style 40"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:530
+msgid "Style 41"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:531
+msgid "Style 42"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:532
+msgid "Style 43"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:533
+msgid "Style 44"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:534
+msgid "Style 45"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:535
+msgid "Style 46"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:536
+msgid "Style 47"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:537
+msgid "Style 48"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:538
+msgid "Style 49"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:539
+msgid "Style 50"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:541
+msgid "Select Style"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:548
+msgid "Map Custom Style"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:556
+msgid "Map Width"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:564
+msgid "Map Height"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:572
+msgid "Map Zoom Level"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:585
+msgid "Show Street View Control"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:592
+msgid "Show Map Type Control"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:599
+msgid "Show Map Zoom Control"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:606
+msgid "Show Map Scale Control"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:613
+msgid "Is Map scrollable"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:620
+msgid "Is Map draggable"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:648
+msgid "Events Archives Page Layout"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:654
+msgid "Page Layout"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:683
+msgid "Events Archives Post Layout"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:689
+msgid "Post Layout"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:757
+#: ../visual-composer/modules/cover.php:211
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:758
+#: ../visual-composer/modules/compact-list.php:23
+#: ../visual-composer/modules/modern-weekly-tab.php:23
+#: ../visual-composer/modules/plain-list.php:23
+#: ../visual-composer/modules/weekly-schedule.php:23
+#: ../visual-composer/modules/weekly-tab.php:23
+#: ../visual-composer/shortcodes/base.php:39
+#: ../visual-composer/shortcodes/base.php:60
+#: ../visual-composer/shortcodes/base.php:88
+#: ../visual-composer/shortcodes/base.php:111
+#: ../visual-composer/shortcodes/base.php:143
+#: ../visual-composer/shortcodes/base.php:166
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:759
+msgid "Type"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:760
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:761
+msgid "Start Date"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:762
+msgid "Duration"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:763
+#: ../custom-post-types/dt-event-venue-post-type.php:19
+#: ../templates/content/layout-1.php:158 ../templates/content/layout-2.php:151
+#: ../templates/content/layout-3.php:40 ../templates/content/layout-5.php:139
+msgid "Venue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:826
+#: ../custom-post-types/dt-event-post-type.php:828
+#: ../templates/archive-dt_event.php:145 ../templates/content/layout-1.php:45
+#: ../templates/content/layout-2.php:39 ../templates/content/layout-3.php:20
+#: ../templates/content/layout-4.php:16 ../templates/content/layout-5.php:13
+msgid "event-img"
+msgstr ""
+
+#: ../custom-post-types/dt-event-post-type.php:850
+#: ../visual-composer/shortcodes/base.php:317
+#: ../visual-composer/shortcodes/cover.php:139
+#, php-format
+msgid "%d'"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:18
+#: ../custom-post-types/dt-event-venue-post-type.php:20
+#: ../custom-post-types/dt-event-venue-post-type.php:34
+#: ../custom-post-types/dt-event-venue-post-type.php:56
+#: ../custom-post-types/dt-event-venue-post-type.php:57
+msgid "Venues"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:21
+msgid "Add Venue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:22
+msgid "Add New Venue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:23
+#: ../custom-post-types/dt-event-venue-post-type.php:24
+msgid "Edit Venue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:25
+msgid "New Venue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:26
+#: ../custom-post-types/dt-event-venue-post-type.php:27
+msgid "View Venue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:28
+msgid "Search Venues"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:29
+msgid "No Venues found"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:30
+msgid "No Venues found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:86
+msgid "United States"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:87
+msgid "Afghanistan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:88
+msgid "Albania"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:89
+msgid "Algeria"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:90
+msgid "American Samoa"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:91
+msgid "Andorra"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:92
+msgid "Angola"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:93
+msgid "Anguilla"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:94
+msgid "Antarctica"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:95
+msgid "Antigua And Barbuda"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:96
+msgid "Argentina"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:97
+msgid "Armenia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:98
+msgid "Aruba"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:99
+msgid "Australia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:100
+msgid "Austria"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:101
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:102
+msgid "Bahamas"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:103
+msgid "Bahrain"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:104
+msgid "Bangladesh"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:105
+msgid "Barbados"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:106
+msgid "Belarus"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:107
+msgid "Belgium"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:108
+msgid "Belize"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:109
+msgid "Benin"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:110
+msgid "Bermuda"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:111
+msgid "Bhutan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:112
+msgid "Bolivia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:113
+msgid "Bosnia And Herzegowina"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:114
+msgid "Botswana"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:115
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:116
+msgid "Brazil"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:117
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:118
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:119
+msgid "Bulgaria"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:120
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:121
+msgid "Burundi"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:122
+msgid "Cambodia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:123
+msgid "Cameroon"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:124
+msgid "Canada"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:125
+msgid "Cape Verde"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:126
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:127
+msgid "Central African Republic"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:128
+msgid "Chad"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:129
+msgid "Chile"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:130
+msgid "China"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:131
+msgid "Christmas Island"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:132
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:133
+msgid "Colombia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:134
+msgid "Comoros"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:135
+msgid "Congo"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:136
+msgid "Congo, The Democratic Republic Of The"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:137
+msgid "Cook Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:138
+msgid "Costa Rica"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:139
+msgid "C&ocirc;te d'Ivoire"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:140
+msgid "Croatia (Local Name: Hrvatska)"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:141
+msgid "Cuba"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:142
+msgid "Cyprus"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:143
+msgid "Czech Republic"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:144
+msgid "Denmark"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:145
+msgid "Djibouti"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:146
+msgid "Dominica"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:147
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:148
+msgid "East Timor"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:149
+msgid "Ecuador"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:150
+msgid "Egypt"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:151
+msgid "El Salvador"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:152
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:153
+msgid "Eritrea"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:154
+msgid "Estonia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:155
+msgid "Ethiopia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:156
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:157
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:158
+msgid "Fiji"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:159
+msgid "Finland"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:160
+msgid "France"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:161
+msgid "French Guiana"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:162
+msgid "French Polynesia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:163
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:164
+msgid "Gabon"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:165
+msgid "Gambia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:166
+msgid "Georgia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:167
+msgid "Germany"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:168
+msgid "Ghana"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:169
+msgid "Gibraltar"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:170
+msgid "Greece"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:171
+msgid "Greenland"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:172
+msgid "Grenada"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:173
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:174
+msgid "Guam"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:175
+msgid "Guatemala"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:176
+msgid "Guinea"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:177
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:178
+msgid "Guyana"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:179
+msgid "Haiti"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:180
+msgid "Heard And Mc Donald Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:181
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:182
+msgid "Honduras"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:183
+msgid "Hong Kong"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:184
+msgid "Hungary"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:185
+msgid "Iceland"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:186
+msgid "India"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:187
+msgid "Indonesia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:188
+msgid "Iran (Islamic Republic Of)"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:189
+msgid "Iraq"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:190
+msgid "Ireland"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:191
+msgid "Israel"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:192
+msgid "Italy"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:193
+msgid "Jamaica"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:194
+msgid "Japan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:195
+msgid "Jordan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:196
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:197
+msgid "Kenya"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:198
+msgid "Kiribati"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:199
+msgid "Korea, Democratic People's Republic Of"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:200
+msgid "Korea, Republic Of"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:201
+msgid "Kuwait"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:202
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:203
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:204
+msgid "Latvia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:205
+msgid "Lebanon"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:206
+msgid "Lesotho"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:207
+msgid "Liberia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:208
+msgid "Libya"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:209
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:210
+msgid "Lithuania"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:211
+msgid "Luxembourg"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:212
+msgid "Macau"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:213
+msgid "Macedonia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:214
+msgid "Madagascar"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:215
+msgid "Malawi"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:216
+msgid "Malaysia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:217
+msgid "Maldives"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:218
+msgid "Mali"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:219
+msgid "Malta"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:220
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:221
+msgid "Martinique"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:222
+msgid "Mauritania"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:223
+msgid "Mauritius"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:224
+msgid "Mayotte"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:225
+msgid "Mexico"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:226
+msgid "Micronesia, Federated States Of"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:227
+msgid "Moldova, Republic Of"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:228
+msgid "Monaco"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:229
+msgid "Mongolia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:230
+msgid "Montenegro"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:231
+msgid "Montserrat"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:232
+msgid "Morocco"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:233
+msgid "Mozambique"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:234
+msgid "Myanmar"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:235
+msgid "Namibia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:236
+msgid "Nauru"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:237
+msgid "Nepal"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:238
+msgid "Netherlands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:239
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:240
+msgid "New Caledonia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:241
+msgid "New Zealand"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:242
+msgid "Nicaragua"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:243
+msgid "Niger"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:244
+msgid "Nigeria"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:245
+msgid "Niue"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:246
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:247
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:248
+msgid "Norway"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:249
+msgid "Oman"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:250
+msgid "Pakistan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:251
+msgid "Palau"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:252
+msgid "Panama"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:253
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:254
+msgid "Paraguay"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:255
+msgid "Peru"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:256
+msgid "Philippines"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:257
+msgid "Pitcairn"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:258
+msgid "Poland"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:259
+msgid "Portugal"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:260
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:261
+msgid "Qatar"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:262
+msgid "Reunion"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:263
+msgid "Romania"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:264
+msgid "Russian Federation"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:265
+msgid "Rwanda"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:266
+msgid "Saint Kitts And Nevis"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:267
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:268
+msgid "Saint Vincent And The Grenadines"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:269
+msgid "Samoa"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:270
+msgid "San Marino"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:271
+msgid "Sao Tome And Principe"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:272
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:273
+msgid "Senegal"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:274
+msgid "Serbia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:275
+msgid "Seychelles"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:276
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:277
+msgid "Singapore"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:278
+msgid "Slovakia (Slovak Republic)"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:279
+msgid "Slovenia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:280
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:281
+msgid "Somalia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:282
+msgid "South Africa"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:283
+msgid "South Georgia, South Sandwich Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:284
+msgid "Spain"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:285
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:286
+msgid "St. Helena"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:287
+msgid "St. Pierre And Miquelon"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:288
+msgid "Sudan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:289
+msgid "Suriname"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:290
+msgid "Svalbard And Jan Mayen Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:291
+msgid "Swaziland"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:292
+msgid "Sweden"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:293
+msgid "Switzerland"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:294
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:295
+msgid "Taiwan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:296
+msgid "Tajikistan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:297
+msgid "Tanzania, United Republic Of"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:298
+msgid "Thailand"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:299
+msgid "Togo"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:300
+msgid "Tokelau"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:301
+msgid "Tonga"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:302
+msgid "Trinidad And Tobago"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:303
+msgid "Tunisia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:304
+msgid "Turkey"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:305
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:306
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:307
+msgid "Tuvalu"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:308
+msgid "Uganda"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:309
+msgid "Ukraine"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:310
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:311
+msgid "United Kingdom"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:312
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:313
+msgid "Uruguay"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:314
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:315
+msgid "Vanuatu"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:316
+msgid "Venezuela"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:317
+msgid "Viet Nam"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:318
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:319
+msgid "Virgin Islands (U.S.)"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:320
+msgid "Wallis And Futuna Islands"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:321
+msgid "Western Sahara"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:322
+msgid "Yemen"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:323
+msgid "Zambia"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:324
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:330
+msgid "Venue Information"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:345
+msgid "Address 1"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:351
+msgid "Address 2"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:357
+msgid "City"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:363
+msgid "Country"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:366
+msgid "Select a Country"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:375
+msgid "State or Province"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:381
+msgid "Postal Code"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:399
+msgid "Latitude"
+msgstr ""
+
+#: ../custom-post-types/dt-event-venue-post-type.php:405
+msgid "Longitude"
+msgstr ""
+
+#: ../templates/content/layout-1.php:54 ../templates/content/layout-2.php:47
+#: ../templates/content/layout-3.php:35 ../templates/content/layout-4.php:38
+#: ../templates/content/layout-5.php:35
+msgid "Details"
+msgstr ""
+
+#: ../templates/content/layout-1.php:57 ../templates/content/layout-2.php:50
+#: ../templates/content/layout-3.php:47 ../templates/content/layout-4.php:41
+#: ../templates/content/layout-5.php:38
+msgid "Start:"
+msgstr ""
+
+#: ../templates/content/layout-1.php:61 ../templates/content/layout-2.php:54
+#: ../templates/content/layout-3.php:51 ../templates/content/layout-4.php:45
+#: ../templates/content/layout-5.php:42
+msgid "End:"
+msgstr ""
+
+#: ../templates/content/layout-1.php:82 ../templates/content/layout-2.php:74
+#: ../templates/content/layout-3.php:69 ../templates/content/layout-4.php:65
+#: ../templates/content/layout-5.php:63
+msgid "Cost:"
+msgstr ""
+
+#: ../templates/content/layout-1.php:112 ../templates/content/layout-2.php:105
+#: ../templates/content/layout-3.php:99 ../templates/content/layout-4.php:95
+#: ../templates/content/layout-5.php:93
+msgid "Categories:"
+msgstr ""
+
+#: ../templates/content/layout-1.php:113 ../templates/content/layout-2.php:106
+#: ../templates/content/layout-3.php:100 ../templates/content/layout-4.php:96
+#: ../templates/content/layout-5.php:94
+msgid "Tags:"
+msgstr ""
+
+#: ../templates/content/layout-1.php:127 ../templates/content/layout-1.php:189
+#: ../templates/content/layout-2.php:122 ../templates/content/layout-2.php:182
+#: ../templates/content/layout-3.php:114 ../templates/content/layout-3.php:175
+#: ../templates/content/layout-4.php:111 ../templates/content/layout-4.php:186
+#: ../templates/content/layout-5.php:109 ../templates/content/layout-5.php:170
+msgid "Phone:"
+msgstr ""
+
+#: ../templates/content/layout-1.php:134 ../templates/content/layout-1.php:196
+#: ../templates/content/layout-2.php:129 ../templates/content/layout-2.php:189
+#: ../templates/content/layout-3.php:121 ../templates/content/layout-3.php:182
+#: ../templates/content/layout-4.php:118 ../templates/content/layout-4.php:193
+#: ../templates/content/layout-5.php:116 ../templates/content/layout-5.php:177
+msgid "Website:"
+msgstr ""
+
+#: ../templates/content/layout-1.php:141 ../templates/content/layout-2.php:136
+#: ../templates/content/layout-3.php:128 ../templates/content/layout-4.php:125
+#: ../templates/content/layout-5.php:123
+msgid "Email:"
+msgstr ""
+
+#: ../templates/single-dt_event_organizer.php:98
+msgid " Edit "
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:3
+msgid "Compact List"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:6
+#: ../visual-composer/modules/cover.php:6
+#: ../visual-composer/modules/modern-weekly-tab.php:6
+#: ../visual-composer/modules/organizer-events.php:6
+#: ../visual-composer/modules/plain-list.php:6
+#: ../visual-composer/modules/single-event-count-down.php:6
+#: ../visual-composer/modules/single-modern.php:6
+#: ../visual-composer/modules/weekly-schedule.php:6
+#: ../visual-composer/modules/weekly-tab.php:6
+msgid "Event Style"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:30
+#: ../visual-composer/modules/plain-list.php:30
+#: ../visual-composer/modules/weekly-schedule.php:30
+#: ../visual-composer/modules/weekly-tab.php:30
+msgid "Title Icon"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:32
+#: ../visual-composer/modules/plain-list.php:32
+#: ../visual-composer/modules/weekly-schedule.php:32
+#: ../visual-composer/modules/weekly-tab.php:32
+msgid "Font Awesome"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:33
+#: ../visual-composer/modules/plain-list.php:33
+#: ../visual-composer/modules/weekly-schedule.php:33
+#: ../visual-composer/modules/weekly-tab.php:33
+msgid "Open Iconic"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:34
+#: ../visual-composer/modules/plain-list.php:34
+#: ../visual-composer/modules/weekly-schedule.php:34
+#: ../visual-composer/modules/weekly-tab.php:34
+msgid "Typicons"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:35
+#: ../visual-composer/modules/plain-list.php:35
+#: ../visual-composer/modules/weekly-schedule.php:35
+#: ../visual-composer/modules/weekly-tab.php:35
+msgid "Entypo"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:36
+#: ../visual-composer/modules/plain-list.php:36
+#: ../visual-composer/modules/weekly-schedule.php:36
+#: ../visual-composer/modules/weekly-tab.php:36
+msgid "Linecons"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:37
+#: ../visual-composer/modules/plain-list.php:37
+#: ../visual-composer/modules/weekly-schedule.php:37
+#: ../visual-composer/modules/weekly-tab.php:37
+msgid "Mono Social"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:38
+#: ../visual-composer/modules/plain-list.php:38
+#: ../visual-composer/modules/weekly-schedule.php:38
+#: ../visual-composer/modules/weekly-tab.php:38
+msgid "Material"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:39
+#: ../visual-composer/modules/plain-list.php:39
+#: ../visual-composer/modules/weekly-schedule.php:39
+#: ../visual-composer/modules/weekly-tab.php:39
+msgid "None"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:44
+#: ../visual-composer/modules/plain-list.php:44
+#: ../visual-composer/modules/weekly-schedule.php:44
+#: ../visual-composer/modules/weekly-tab.php:45
+msgid "Select icon library."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:48
+#: ../visual-composer/modules/compact-list.php:57
+#: ../visual-composer/modules/compact-list.php:66
+#: ../visual-composer/modules/compact-list.php:75
+#: ../visual-composer/modules/compact-list.php:83
+#: ../visual-composer/modules/compact-list.php:92
+#: ../visual-composer/modules/compact-list.php:101
+#: ../visual-composer/modules/plain-list.php:48
+#: ../visual-composer/modules/plain-list.php:57
+#: ../visual-composer/modules/plain-list.php:66
+#: ../visual-composer/modules/plain-list.php:75
+#: ../visual-composer/modules/plain-list.php:83
+#: ../visual-composer/modules/plain-list.php:92
+#: ../visual-composer/modules/plain-list.php:101
+#: ../visual-composer/modules/weekly-schedule.php:48
+#: ../visual-composer/modules/weekly-schedule.php:57
+#: ../visual-composer/modules/weekly-schedule.php:66
+#: ../visual-composer/modules/weekly-schedule.php:75
+#: ../visual-composer/modules/weekly-schedule.php:83
+#: ../visual-composer/modules/weekly-schedule.php:92
+#: ../visual-composer/modules/weekly-schedule.php:101
+#: ../visual-composer/modules/weekly-tab.php:49
+#: ../visual-composer/modules/weekly-tab.php:59
+#: ../visual-composer/modules/weekly-tab.php:69
+#: ../visual-composer/modules/weekly-tab.php:79
+#: ../visual-composer/modules/weekly-tab.php:88
+#: ../visual-composer/modules/weekly-tab.php:98
+#: ../visual-composer/modules/weekly-tab.php:108
+msgid "Icon"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:53
+#: ../visual-composer/modules/compact-list.php:62
+#: ../visual-composer/modules/compact-list.php:71
+#: ../visual-composer/modules/compact-list.php:88
+#: ../visual-composer/modules/compact-list.php:97
+#: ../visual-composer/modules/compact-list.php:106
+#: ../visual-composer/modules/plain-list.php:53
+#: ../visual-composer/modules/plain-list.php:62
+#: ../visual-composer/modules/plain-list.php:71
+#: ../visual-composer/modules/plain-list.php:88
+#: ../visual-composer/modules/plain-list.php:97
+#: ../visual-composer/modules/plain-list.php:106
+#: ../visual-composer/modules/weekly-schedule.php:53
+#: ../visual-composer/modules/weekly-schedule.php:62
+#: ../visual-composer/modules/weekly-schedule.php:71
+#: ../visual-composer/modules/weekly-schedule.php:88
+#: ../visual-composer/modules/weekly-schedule.php:97
+#: ../visual-composer/modules/weekly-schedule.php:106
+#: ../visual-composer/modules/weekly-tab.php:55
+#: ../visual-composer/modules/weekly-tab.php:65
+#: ../visual-composer/modules/weekly-tab.php:75
+#: ../visual-composer/modules/weekly-tab.php:94
+#: ../visual-composer/modules/weekly-tab.php:104
+#: ../visual-composer/modules/weekly-tab.php:114
+msgid "Select icon from library."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:112
+#: ../visual-composer/modules/organizer-events.php:73
+#: ../visual-composer/modules/plain-list.php:112
+#: ../visual-composer/modules/single-modern.php:83
+msgid "How many days to show ?"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:115
+#: ../visual-composer/modules/organizer-events.php:76
+#: ../visual-composer/modules/plain-list.php:115
+#: ../visual-composer/modules/single-modern.php:86
+msgid "Show all Days"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:116
+#: ../visual-composer/modules/organizer-events.php:77
+#: ../visual-composer/modules/plain-list.php:116
+#: ../visual-composer/modules/single-modern.php:87
+msgid "1 Day"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:117
+#: ../visual-composer/modules/organizer-events.php:78
+#: ../visual-composer/modules/plain-list.php:117
+#: ../visual-composer/modules/single-modern.php:88
+msgid "2 Days"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:118
+#: ../visual-composer/modules/organizer-events.php:79
+#: ../visual-composer/modules/plain-list.php:118
+#: ../visual-composer/modules/single-modern.php:89
+msgid "3 Days"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:119
+#: ../visual-composer/modules/organizer-events.php:80
+#: ../visual-composer/modules/plain-list.php:119
+#: ../visual-composer/modules/single-modern.php:90
+msgid "4 Days"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:120
+#: ../visual-composer/modules/organizer-events.php:81
+#: ../visual-composer/modules/plain-list.php:120
+#: ../visual-composer/modules/single-modern.php:91
+msgid "5 Days"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:121
+#: ../visual-composer/modules/organizer-events.php:82
+#: ../visual-composer/modules/plain-list.php:121
+#: ../visual-composer/modules/single-modern.php:92
+msgid "6 Days"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:122
+#: ../visual-composer/modules/organizer-events.php:83
+#: ../visual-composer/modules/plain-list.php:122
+#: ../visual-composer/modules/single-modern.php:93
+msgid "1 Week"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:123
+#: ../visual-composer/modules/organizer-events.php:84
+#: ../visual-composer/modules/plain-list.php:123
+#: ../visual-composer/modules/single-modern.php:94
+msgid "2 Weeks"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:124
+#: ../visual-composer/modules/organizer-events.php:85
+#: ../visual-composer/modules/plain-list.php:124
+#: ../visual-composer/modules/single-modern.php:95
+msgid "3 Weeks"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:125
+#: ../visual-composer/modules/organizer-events.php:86
+#: ../visual-composer/modules/plain-list.php:125
+#: ../visual-composer/modules/single-modern.php:96
+msgid "4 Weeks"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:135
+#: ../visual-composer/modules/organizer-events.php:96
+#: ../visual-composer/modules/plain-list.php:135
+#: ../visual-composer/modules/single-modern.php:106
+msgid "How many events to show ?"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:142
+#: ../visual-composer/modules/organizer-events.php:103
+#: ../visual-composer/modules/plain-list.php:142
+#: ../visual-composer/modules/single-modern.php:113
+msgid "Enter 0 to show all events"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:149
+#: ../visual-composer/modules/modern-weekly-tab.php:31
+#: ../visual-composer/modules/plain-list.php:149
+#: ../visual-composer/modules/weekly-schedule.php:113
+#: ../visual-composer/modules/weekly-tab.php:121
+msgid "Select Category"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:153
+#: ../visual-composer/modules/modern-weekly-tab.php:34
+#: ../visual-composer/modules/plain-list.php:152
+#: ../visual-composer/modules/weekly-schedule.php:116
+#: ../visual-composer/modules/weekly-tab.php:124
+msgid "Input Event Category title to see suggestions"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:160
+#: ../visual-composer/modules/cover.php:31
+#: ../visual-composer/modules/modern-weekly-tab.php:41
+#: ../visual-composer/modules/organizer-events.php:42
+#: ../visual-composer/modules/single-event-count-down.php:64
+#: ../visual-composer/modules/single-modern.php:42
+#: ../visual-composer/modules/weekly-tab.php:131
+msgid "Date Format"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:161
+#: ../visual-composer/modules/cover.php:32
+#: ../visual-composer/modules/modern-weekly-tab.php:42
+#: ../visual-composer/modules/organizer-events.php:43
+#: ../visual-composer/modules/single-event-count-down.php:65
+#: ../visual-composer/modules/single-modern.php:43
+#: ../visual-composer/modules/weekly-tab.php:132
+msgid "Sample Date Format"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:169
+#: ../visual-composer/modules/cover.php:126
+#: ../visual-composer/modules/modern-weekly-tab.php:50
+#: ../visual-composer/modules/organizer-events.php:108
+#: ../visual-composer/modules/plain-list.php:157
+#: ../visual-composer/modules/single-event-count-down.php:83
+#: ../visual-composer/modules/single-modern.php:118
+#: ../visual-composer/modules/weekly-schedule.php:121
+#: ../visual-composer/modules/weekly-tab.php:140
+msgid "Extra class name"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:171
+#: ../visual-composer/modules/cover.php:128
+#: ../visual-composer/modules/modern-weekly-tab.php:52
+#: ../visual-composer/modules/organizer-events.php:110
+#: ../visual-composer/modules/plain-list.php:159
+#: ../visual-composer/modules/single-event-count-down.php:85
+#: ../visual-composer/modules/single-modern.php:120
+#: ../visual-composer/modules/weekly-schedule.php:123
+#: ../visual-composer/modules/weekly-tab.php:142
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:177
+#: ../visual-composer/modules/cover.php:39
+#: ../visual-composer/modules/plain-list.php:165
+#: ../visual-composer/modules/weekly-schedule.php:139
+#: ../visual-composer/modules/weekly-tab.php:148
+msgid "End Time ?"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:179
+#: ../visual-composer/modules/compact-list.php:191
+#: ../visual-composer/modules/compact-list.php:203
+#: ../visual-composer/modules/compact-list.php:215
+#: ../visual-composer/modules/compact-list.php:227
+#: ../visual-composer/modules/compact-list.php:239
+#: ../visual-composer/modules/cover.php:41
+#: ../visual-composer/modules/cover.php:52
+#: ../visual-composer/modules/cover.php:63
+#: ../visual-composer/modules/cover.php:74
+#: ../visual-composer/modules/cover.php:85
+#: ../visual-composer/modules/cover.php:96
+#: ../visual-composer/modules/cover.php:107
+#: ../visual-composer/modules/modern-weekly-tab.php:60
+#: ../visual-composer/modules/modern-weekly-tab.php:72
+#: ../visual-composer/modules/modern-weekly-tab.php:84
+#: ../visual-composer/modules/modern-weekly-tab.php:96
+#: ../visual-composer/modules/organizer-events.php:31
+#: ../visual-composer/modules/organizer-events.php:53
+#: ../visual-composer/modules/plain-list.php:167
+#: ../visual-composer/modules/plain-list.php:179
+#: ../visual-composer/modules/plain-list.php:191
+#: ../visual-composer/modules/plain-list.php:203
+#: ../visual-composer/modules/plain-list.php:215
+#: ../visual-composer/modules/plain-list.php:227
+#: ../visual-composer/modules/plain-list.php:239
+#: ../visual-composer/modules/single-event-count-down.php:32
+#: ../visual-composer/modules/single-event-count-down.php:43
+#: ../visual-composer/modules/single-event-count-down.php:54
+#: ../visual-composer/modules/single-modern.php:31
+#: ../visual-composer/modules/single-modern.php:53
+#: ../visual-composer/modules/weekly-schedule.php:130
+#: ../visual-composer/modules/weekly-schedule.php:141
+#: ../visual-composer/modules/weekly-schedule.php:153
+#: ../visual-composer/modules/weekly-schedule.php:165
+#: ../visual-composer/modules/weekly-schedule.php:177
+#: ../visual-composer/modules/weekly-schedule.php:189
+#: ../visual-composer/modules/weekly-schedule.php:201
+#: ../visual-composer/modules/weekly-tab.php:150
+#: ../visual-composer/modules/weekly-tab.php:162
+#: ../visual-composer/modules/weekly-tab.php:174
+#: ../visual-composer/modules/weekly-tab.php:186
+#: ../visual-composer/modules/weekly-tab.php:198
+#: ../visual-composer/modules/weekly-tab.php:210
+msgid "Yes"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:181
+#: ../visual-composer/modules/cover.php:43
+#: ../visual-composer/modules/plain-list.php:169
+#: ../visual-composer/modules/weekly-schedule.php:143
+#: ../visual-composer/modules/weekly-tab.php:152
+msgid "Show event end time."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:183
+#: ../visual-composer/modules/compact-list.php:195
+#: ../visual-composer/modules/compact-list.php:207
+#: ../visual-composer/modules/compact-list.php:219
+#: ../visual-composer/modules/compact-list.php:231
+#: ../visual-composer/modules/compact-list.php:243
+#: ../visual-composer/modules/modern-weekly-tab.php:64
+#: ../visual-composer/modules/modern-weekly-tab.php:76
+#: ../visual-composer/modules/modern-weekly-tab.php:88
+#: ../visual-composer/modules/modern-weekly-tab.php:100
+#: ../visual-composer/modules/plain-list.php:171
+#: ../visual-composer/modules/plain-list.php:183
+#: ../visual-composer/modules/plain-list.php:195
+#: ../visual-composer/modules/plain-list.php:207
+#: ../visual-composer/modules/plain-list.php:219
+#: ../visual-composer/modules/plain-list.php:231
+#: ../visual-composer/modules/plain-list.php:243
+#: ../visual-composer/modules/plain-list.php:252
+#: ../visual-composer/modules/weekly-schedule.php:145
+#: ../visual-composer/modules/weekly-schedule.php:157
+#: ../visual-composer/modules/weekly-schedule.php:169
+#: ../visual-composer/modules/weekly-schedule.php:181
+#: ../visual-composer/modules/weekly-schedule.php:193
+#: ../visual-composer/modules/weekly-schedule.php:205
+#: ../visual-composer/modules/weekly-tab.php:154
+#: ../visual-composer/modules/weekly-tab.php:166
+#: ../visual-composer/modules/weekly-tab.php:178
+#: ../visual-composer/modules/weekly-tab.php:190
+#: ../visual-composer/modules/weekly-tab.php:202
+#: ../visual-composer/modules/weekly-tab.php:214
+msgid "Meta"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:189
+#: ../visual-composer/modules/cover.php:50
+#: ../visual-composer/modules/plain-list.php:177
+#: ../visual-composer/modules/weekly-schedule.php:151
+#: ../visual-composer/modules/weekly-tab.php:160
+msgid "Duration ?"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:193
+#: ../visual-composer/modules/cover.php:54
+#: ../visual-composer/modules/plain-list.php:181
+#: ../visual-composer/modules/weekly-schedule.php:155
+#: ../visual-composer/modules/weekly-tab.php:164
+msgid "Show event total duration."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:201
+#: ../visual-composer/modules/cover.php:61
+#: ../visual-composer/modules/modern-weekly-tab.php:58
+#: ../visual-composer/modules/plain-list.php:189
+#: ../visual-composer/modules/single-event-count-down.php:30
+#: ../visual-composer/modules/weekly-schedule.php:163
+#: ../visual-composer/modules/weekly-tab.php:172
+msgid "Category ?"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:205
+#: ../visual-composer/modules/cover.php:65
+#: ../visual-composer/modules/modern-weekly-tab.php:62
+#: ../visual-composer/modules/plain-list.php:193
+#: ../visual-composer/modules/single-event-count-down.php:34
+#: ../visual-composer/modules/weekly-schedule.php:167
+#: ../visual-composer/modules/weekly-tab.php:176
+msgid "Show event category."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:213
+#: ../visual-composer/modules/cover.php:72
+#: ../visual-composer/modules/modern-weekly-tab.php:70
+#: ../visual-composer/modules/plain-list.php:201
+#: ../visual-composer/modules/single-event-count-down.php:41
+#: ../visual-composer/modules/weekly-schedule.php:175
+#: ../visual-composer/modules/weekly-tab.php:184
+msgid "Location ?"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:217
+#: ../visual-composer/modules/cover.php:76
+#: ../visual-composer/modules/modern-weekly-tab.php:74
+#: ../visual-composer/modules/plain-list.php:205
+#: ../visual-composer/modules/single-event-count-down.php:45
+#: ../visual-composer/modules/weekly-schedule.php:179
+#: ../visual-composer/modules/weekly-tab.php:188
+msgid "Show event location."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:225
+#: ../visual-composer/modules/cover.php:83
+#: ../visual-composer/modules/modern-weekly-tab.php:82
+#: ../visual-composer/modules/organizer-events.php:29
+#: ../visual-composer/modules/plain-list.php:213
+#: ../visual-composer/modules/single-event-count-down.php:52
+#: ../visual-composer/modules/single-modern.php:29
+#: ../visual-composer/modules/weekly-schedule.php:187
+#: ../visual-composer/modules/weekly-tab.php:196
+msgid "Instructor ?"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:229
+#: ../visual-composer/modules/cover.php:87
+#: ../visual-composer/modules/modern-weekly-tab.php:86
+#: ../visual-composer/modules/organizer-events.php:33
+#: ../visual-composer/modules/plain-list.php:217
+#: ../visual-composer/modules/single-event-count-down.php:56
+#: ../visual-composer/modules/single-modern.php:33
+#: ../visual-composer/modules/weekly-schedule.php:191
+#: ../visual-composer/modules/weekly-tab.php:200
+msgid "Show event instructor."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:237
+#: ../visual-composer/modules/cover.php:94
+#: ../visual-composer/modules/modern-weekly-tab.php:94
+#: ../visual-composer/modules/plain-list.php:225
+#: ../visual-composer/modules/weekly-schedule.php:199
+#: ../visual-composer/modules/weekly-tab.php:208
+msgid "Excerpt ?"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:241
+#: ../visual-composer/modules/cover.php:98
+#: ../visual-composer/modules/modern-weekly-tab.php:98
+#: ../visual-composer/modules/plain-list.php:229
+#: ../visual-composer/modules/weekly-schedule.php:203
+#: ../visual-composer/modules/weekly-tab.php:212
+msgid "Show event excerpt."
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:250
+#: ../visual-composer/modules/cover.php:253
+#: ../visual-composer/modules/modern-weekly-tab.php:107
+#: ../visual-composer/modules/organizer-events.php:115
+#: ../visual-composer/modules/plain-list.php:261
+#: ../visual-composer/modules/single-event-count-down.php:490
+#: ../visual-composer/modules/single-modern.php:125
+#: ../visual-composer/modules/weekly-schedule.php:276
+#: ../visual-composer/modules/weekly-tab.php:221
+msgid "Css"
+msgstr ""
+
+#: ../visual-composer/modules/compact-list.php:252
+#: ../visual-composer/modules/cover.php:255
+#: ../visual-composer/modules/modern-weekly-tab.php:109
+#: ../visual-composer/modules/organizer-events.php:117
+#: ../visual-composer/modules/plain-list.php:263
+#: ../visual-composer/modules/single-event-count-down.php:492
+#: ../visual-composer/modules/single-modern.php:127
+#: ../visual-composer/modules/weekly-schedule.php:278
+#: ../visual-composer/modules/weekly-tab.php:223
+msgid "Design options"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:3
+msgid "Single Event Cover"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:22
+#: ../visual-composer/modules/single-event-count-down.php:23
+#: ../visual-composer/modules/single-modern.php:22
+msgid "Select Event"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:24
+#: ../visual-composer/modules/single-event-count-down.php:25
+#: ../visual-composer/modules/single-modern.php:24
+msgid "Input Event ID or Event title to see suggestions"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:105
+#: ../visual-composer/modules/organizer-events.php:51
+#: ../visual-composer/modules/plain-list.php:237
+#: ../visual-composer/modules/single-modern.php:51
+msgid "Read More ?"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:109
+#: ../visual-composer/modules/organizer-events.php:55
+#: ../visual-composer/modules/plain-list.php:241
+#: ../visual-composer/modules/single-modern.php:55
+msgid "Show read more button."
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:117
+#: ../visual-composer/modules/organizer-events.php:63
+#: ../visual-composer/modules/plain-list.php:249
+#: ../visual-composer/modules/single-modern.php:63
+msgid "Read More Text"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:135
+msgid "Aspect Ratio"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:137
+#: ../visual-composer/modules/cover.php:155
+#: ../visual-composer/modules/cover.php:177
+#: ../visual-composer/modules/cover.php:193
+#: ../visual-composer/modules/cover.php:209
+#: ../visual-composer/modules/cover.php:222
+#: ../visual-composer/modules/cover.php:236
+#: ../visual-composer/modules/cover.php:245
+msgid "Cover"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:140
+#: ../visual-composer/modules/cover.php:142
+msgid "vertical"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:153
+msgid "Text Position"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:158
+msgid "Top Left"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:159
+msgid "Top Center"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:160
+msgid "Top Right"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:161
+msgid "Middle Left"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:162
+msgid "Middle Center"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:163
+msgid "Middle Right"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:164
+msgid "Bottom Left"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:165
+msgid "Bottom Center"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:166
+msgid "Bottom Right"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:175
+msgid "Text Align"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:179
+msgid "Left"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:180
+msgid "Center"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:181
+msgid "Right"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:191
+msgid "Text Size"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:195
+msgid "Small"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:196
+msgid "Normal"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:197
+msgid "Large"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:207
+msgid "Color Overlay Layer"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:212
+msgid "Text"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:221
+msgid "Overlay Opacity (%)"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:234
+msgid "Overlay Color"
+msgstr ""
+
+#: ../visual-composer/modules/cover.php:243
+msgid "Text Color"
+msgstr ""
+
+#: ../visual-composer/modules/modern-weekly-tab.php:3
+msgid "Modern Weekly Tab"
+msgstr ""
+
+#: ../visual-composer/modules/organizer-events.php:3
+msgid "Organizer Events"
+msgstr ""
+
+#: ../visual-composer/modules/organizer-events.php:22
+msgid "Select Organizer"
+msgstr ""
+
+#: ../visual-composer/modules/organizer-events.php:24
+msgid "Input Organizer ID or Organizer name to see suggestions"
+msgstr ""
+
+#: ../visual-composer/modules/organizer-events.php:65
+#: ../visual-composer/modules/single-modern.php:65
+msgid "More Details & Info"
+msgstr ""
+
+#: ../visual-composer/modules/plain-list.php:3
+msgid "Plain List"
+msgstr ""
+
+#: ../visual-composer/modules/single-event-count-down.php:3
+msgid "Single Event Countdown"
+msgstr ""
+
+#: ../visual-composer/modules/single-event-count-down.php:74
+msgid "Mobile Breakpoint (px)"
+msgstr ""
+
+#: ../visual-composer/modules/single-event-count-down.php:75
+msgid "Apply different style if resolution less than the input value."
+msgstr ""
+
+#: ../visual-composer/modules/single-modern.php:3
+msgid "Single Event Modern"
+msgstr ""
+
+#: ../visual-composer/modules/single-modern.php:73
+msgid "Hover Text"
+msgstr ""
+
+#: ../visual-composer/modules/single-modern.php:75
+msgid "Read More"
+msgstr ""
+
+#: ../visual-composer/modules/weekly-schedule.php:3
+msgid "Weekly Schedule"
+msgstr ""
+
+#: ../visual-composer/modules/weekly-schedule.php:129
+msgid "Show Navigation"
+msgstr ""
+
+#: ../visual-composer/modules/weekly-schedule.php:131
+msgid "Show next and previous week navigation."
+msgstr ""
+
+#: ../visual-composer/modules/weekly-tab.php:3
+msgid "Weekly Tab"
+msgstr ""
+
+#: ../visual-composer/shortcodes/base.php:39
+#: ../visual-composer/shortcodes/base.php:60
+#: ../visual-composer/shortcodes/base.php:88
+#: ../visual-composer/shortcodes/base.php:111
+#: ../visual-composer/shortcodes/base.php:143
+#: ../visual-composer/shortcodes/base.php:166
+msgid "Id"
+msgstr ""
+
+#: ../visual-composer/shortcodes/base.php:376
+msgid "Trainer: "
+msgstr ""
+
+#: ../visual-composer/shortcodes/compact-list.php:73
+#: ../visual-composer/shortcodes/organizer-events.php:61
+#: ../visual-composer/shortcodes/plain-list.php:64
+#: ../visual-composer/shortcodes/single-modern.php:69
+#: ../visual-composer/shortcodes/weekly-schedule.php:95
+msgid "No Events to Show"
+msgstr ""
+
+#: ../visual-composer/shortcodes/organizer-events.php:45
+#: ../visual-composer/shortcodes/single-modern.php:51
+msgid " to "
+msgstr ""
+
+#: ../visual-composer/shortcodes/single-event-count-down.php:179
+msgid "Days"
+msgstr ""
+
+#: ../visual-composer/shortcodes/single-event-count-down.php:185
+msgid "Hours"
+msgstr ""
+
+#: ../visual-composer/shortcodes/single-event-count-down.php:191
+msgid "Minutes"
+msgstr ""
+
+#: ../visual-composer/shortcodes/single-event-count-down.php:197
+msgid "Seconds"
+msgstr ""
+
+#: ../visual-composer/shortcodes/weekly-schedule.php:244
+msgid "Previous"
+msgstr ""
+
+#: ../visual-composer/shortcodes/weekly-schedule.php:246
+msgid "Next"
+msgstr ""
+
+#: ../visual-composer/shortcodes/weekly-tab.php:44
+msgid "Instructor"
+msgstr ""

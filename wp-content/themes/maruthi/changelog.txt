@@ -1,0 +1,144 @@
+*** Maruthi WordPress Theme Changelog ***
+
+2023.11.02 - version 2.8
+	* Fixed: Unyson plugin installation issue. The source is included in the theme package.
+	* Compatible: latest version WordPress
+
+2023.04.10 - version 2.7
+	* Compatible with WordPress 6.2
+	* Compatible with latest WooCommerce versions
+	* Compatible with PHP 8.1 version
+	* Updated: All premium plugins	
+
+2023.01.06 - version 2.6
+	* Compatible with WordPress 6.1
+	* Compatible with latest WooCommerce versions
+	* Compatible with PHP 8.1 version
+	* Updated: All premium plugins	
+
+2022.03.02 - version 2.5
+	* Fixed Kirki Customizer Issue
+
+2021.01.25 - version 2.4
+	* Compatible with wordpress 5.6
+	* Some design issues updated
+	* Updated: All premium plugins
+
+2020.12.03 - version 2.3
+	* Latest jQuery fixes updated
+	* Updated: All premium plugins
+
+2020.08.13 - version 2.2
+	* Compatible with wordpress 5.5
+
+2020.08.04 - version 2.1
+	* Updated: Envato Theme check
+	* Updated: sanitize_text_field added
+	* Updated: All wordpress theme standards
+	* Updated: All premium plugins
+
+2020.07.04 - version 2.0
+	* Compatible with wordpress 5.4.2
+	* Updated: All premium plugins
+	* Updated: Some design tweaks
+	* Updated: Sub menu mouse hover issue
+	* Updated: Activating another theme causes error
+
+
+2020.02.06 - version 1.9
+	* Updated : All premium plugins
+
+2020.01.29 - version 1.8
+	* Compatible with wordpress 5.3.2
+	* Updated: All premium plugins
+	* Updated: All wordpress theme standards
+	* Updated: Privacy and Cookies concept
+	* Updated: Gutenberg editor support for custom post types
+
+	* Fixed: Google Analytics issue
+	* Fixed: Mailchimp email client issue
+	* Fixed: Privacy Button Issue
+	* Fixed: Gutenberg check for old wordpress version
+
+	* Improved: Tags taxonomy added for portfolio
+	* Improved: Single product breadcrumb section
+	* Improved: Revisions options added for all custom posts
+
+2019.11.16 - version 1.7
+	* Updated all wordpress theme standards
+	* Compatible with latest Gutenberg editor
+	* Updated: All premium plugins
+	* Compatible with wordpress 5.3
+
+2019.07.25 - version 1.6
+	* Compatible with wordpress 5.2.2
+	* Updated: All premium plugins
+	* Updated: Revisions added to all custom post types
+	* Updated: Gutenberg editor support for custom post types
+	* Updated: Link for phone number module
+	* Updated: Online documentation link, check readme file
+
+	* Fixed: Customizer logo option
+	* Fixed: Google Analytics issue
+	* Fixed: Mailchimp email client issue
+	* Fixed: Gutenberg check for old wordpress version
+	* Fixed: Edit with Visual Composer for portfolio
+	* Fixed: Header & Footer wpml option
+	* Fixed: Site title color
+	* Fixed: Privacy popup bg color
+	* Fixed: 404 page scrolling issue
+
+	* Improved: Single product breadcrumb section
+	* Improved: Tags taxonomy added for portfolio
+	* Improved: Woocommerce cart module added with custom class option
+
+	* New: Whatsapp Shortcode
+
+2019.05.16 - version 1.5
+	* Gutenberg Latest update compatible
+	* Portfolio Video option
+	* Coming Soon page fix
+	* Portfolio archive page breadcrumb fix
+	* Mega menu image fix
+	* GDPR product single page fix
+	* Codestar framework update
+	* Wpml xml file updated
+	* disable options for likes and views in single post page
+	* Updated latest version of all third party plugins
+	* Some design tweaks
+
+2019.02.05 - version 1.4
+	* Gutenberg compatible
+	* Latest WordPress version 5.0.3 compatible
+	* Updated latest version of all third party plugins
+	* Some design tweaks
+
+2018.11.01 - version 1.3
+	* Gutenberg plugin compatible
+	* Latest wordpress version 4.9.8 compatible
+	* Updated latest version of all third party plugins
+	* Updated documentation
+
+2018.07.26 - version 1.2
+	* GDPR Compliant update in comment form, mailchimp form etc.
+	* Packed with - Layer Slider 6.7.6
+	* Packed with - Revolution Slider 5.4.8
+	* Packed with - WPBakery Page Builder 5.5.2
+	* Packed with - Ultimate Addons for Visual Composer 3.16.24
+	* Packed with - Envato Market 2.0.0
+	* Fix - Option for change the site title color
+	* Fix - Add target attribute for social media
+	* Fix - Bulk plugins install issue
+	* Fix - Unyson Page Builder Conflict
+	* Fix - Twitter feeds links issue
+	* Fix - Iphone sidebar issue
+	* Fix - Youtube and Vimeo video issue in https
+	* Fix - Buddypress issue
+	* Updated designthemes core features plugin
+	* Updated language files
+
+2018.01.11 - version 1.1
+	* Optimized dummy content included
+
+2018.01.05 - version 1.0
+	* First release!

@@ -1,0 +1,93 @@
+<wpml-config>
+
+    <custom-fields>
+		<custom-field action="copy">_dt_post_settings</custom-field>
+		<custom-field action="copy">_portfolio_settings</custom-field>
+		<custom-field action="copy">_tpl_default_settings</custom-field>
+		<custom-field action="copy">_custom_settings</custom-field>
+        <custom-field action="copy">_dt_custom_settings</custom-field>
+    </custom-fields>
+
+    <custom-types>
+        <custom-type translate="1">dt_portfolios</custom-type>
+        <custom-type translate="1">dt_headers</custom-type>
+        <custom-type translate="1">dt_footers</custom-type>
+        <custom-type translate="1">dt_mega_menus</custom-type>
+        <custom-type translate="1">dt_class</custom-type>
+        <custom-type translate="1">dt_trainer</custom-type>
+        <custom-type translate="1">dt_event</custom-type>
+        <custom-type translate="1">dt_event_venu</custom-type>
+        <custom-type translate="1">dt_event_organizer</custom-type>
+    </custom-types>
+
+    <taxonomies>
+        <taxonomy translate="1">portfolio_entries</taxonomy>
+        <taxonomy translate="1">portfolio_tags</taxonomy>
+        <taxonomy translate="1">class_entries</taxonomy>
+        <taxonomy translate="1">dt_event_category</taxonomy>
+        <taxonomy translate="1">dt_event_tag</taxonomy>
+		<taxonomy translate="0">dt_dummy</taxonomy>
+    </taxonomies>
+
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>    
+        <key name="icl_language_switcher_sidebar">0</key>  
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>    
+    </language-switcher-settings>
+    <admin-texts>
+        <key name="_cs_options">
+			<key name="post-archives-readmore"/>
+			<key name="top-hook"/>
+			<key name="content-before-hook"/>
+			<key name="content-after-hook"/>
+			<key name="bottom-hook"/>
+            <key name="cookie-consent-msg"/>
+            <key name="privacy-commentform-msg"/>
+            <key name="privacy-subscribeform-msg"/>
+            <key name="privacy-loginform-msg"/>
+            <key name="cookie-bar-buttons"/>
+            <key name="custom-model-heading"/>
+            <key name="custom-model-tabs"/>
+			<key name="single-portfolio-slug"/>
+			<key name="portfolio-category-slug"/>
+			<key name="single-class-slug"/>
+			<key name="class-category-slug"/>
+			<key name="singular-class-name"/>
+			<key name="plural-class-name"/>
+			<key name="singular-class-tax-name"/>
+			<key name="plural-class-tax-name"/>
+			<key name="singular-trainer-name"/>
+			<key name="plural-trainer-name"/>
+        </key>
+    </admin-texts>
+</wpml-config>

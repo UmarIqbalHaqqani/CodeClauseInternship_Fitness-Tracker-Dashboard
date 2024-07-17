@@ -1,0 +1,9 @@
+<?php if (!defined('FW')) die('Forbidden');
+/**
+ * @var string $uri Demo directory url
+ */
+
+$manifest = array();
+$manifest['title'] = esc_html__('Default Demo', 'maruthi');
+$manifest['screenshot'] = $uri . '/screenshot.png';
+$manifest['preview_link'] = 'http://maruthi.vedicthemes.com/landing/';

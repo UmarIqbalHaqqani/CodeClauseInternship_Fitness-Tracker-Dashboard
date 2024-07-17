@@ -1,0 +1,13 @@
+ul#sub-accordion-section-dt_shop_page_sction img ,
+ul#sub-accordion-section-dt_single_product_sction img,
+ul#sub-accordion-section-dt_product_category_page_sction img,
+ul#sub-accordion-section-dt_product_tag_page_sction img,
+ul#sub-accordion-section-dt_footer_layout img { width: 88px; }
+
+li#customize-control-header-type img { border: 1px solid #625f5d; margin:5px; } 
+li#customize-control-body-bg-pattern img { width:75px; height:75px; border: 1px solid #625f5d; }
+
+.customize-control-divider { padding: 1px;background-color: #333; }
+.customize-control-title i { font-size: 18px;  }
+
+.control-section-kirki-default, .control-section-kirki-outer { min-height: auto; }

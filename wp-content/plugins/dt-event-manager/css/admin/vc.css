@@ -1,0 +1,12 @@
+#vc_ui-panel-edit-element .vc_ui-panel-content-container .vc_edit_form_elements .vc_edit_form_elements .vc_edit-form-tab .vc_shortcode-param.padding-top-0px { padding-top:0 !important }
+
+/*** Events addon icons ***/
+.vc_element-icon.dt_sc_event_plain_list{background-image:url(../../images/admin/plain.png);}
+.vc_element-icon.dt_sc_event_compact_list{background-image:url(../../images/admin/compact.png);}
+.vc_element-icon.dt_sc_event_single_countdown{background-image:url(../../images/admin/counter.png);}
+.vc_element-icon.dt_sc_event_weekly_schedule{background-image:url(../../images/admin/week-schedule.png);}
+.vc_element-icon.dt_sc_event_weekly_tab{background-image:url(../../images/admin/week-tab.png);}
+.vc_element-icon.dt_sc_event_single_cover{background-image:url(../../images/admin/cover.png);}
+.vc_element-icon.dt_sc_event_single_modern{background-image:url(../../images/admin/vc_03.png);}
+.vc_element-icon.dt_sc_event_organizer_events{background-image:url(../../images/admin/vc_05.png);}
+.vc_element-icon.dt_sc_event_modern_weekly_tab{background-image:url(../../images/admin/vc_06.png);}

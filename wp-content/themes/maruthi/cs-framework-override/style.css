@@ -1,0 +1,6 @@
+/* Revolution slider UI fix */
+#viewWrapper .pickerisopen .wp-picker-clear { margin-top:0; }
+#viewWrapper .wp-picker-input-wrap { top:255px; }
+
+/* New */
+.menu-item-edit-active .menu-item-settings { display: inline-block !important; }
